@@ -1,6 +1,6 @@
 # gallery_app
 
-A simple gallery app
+Flutter gallery app
 
 ## Getting Started
 
